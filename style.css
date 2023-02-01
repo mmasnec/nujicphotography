@@ -1,0 +1,65 @@
+.custom-text{
+    color: chartreuse !important;
+    background-color: #110702 !important;
+}
+
+.hero-image{
+    background-image: url("img/hero-img.jpg");
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	height: 200px;
+}
+
+.bg-brown{
+    background-color: #2B1608;
+}
+.bg-brown2{
+    background-color: #4D270E;
+}
+
+.text-brown{
+    color: #B8860B !important;
+}
+
+.brd-rd{
+    border-color: black !important;
+    border-radius: 5px !important;
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  a:active {
+    text-decoration: none;
+  }
+
+  .ft-img{
+    max-width: 200px;
+  }
+  .pr-img{
+    max-width: 400px;
+  }
+  .gl-img{
+    max-height: 200px !important;
+  }
+  .social-icons{
+    max-width: 50px;
+    display: inline-block;
+  }
+  .p-inline{
+    white-space: nowrap;
+  }
+  .c-inline{
+    display: inline-block;
+  }
